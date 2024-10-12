@@ -1,4 +1,4 @@
-## [Live Link ](https://vcriate-assignment-1.onrender.com/api/quizzes)
+## [Live Link ](https://vcriate-assignment-1.onrender.com)
 
 # Project Overview
 
