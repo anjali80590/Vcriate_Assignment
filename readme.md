@@ -9,7 +9,7 @@ The main objective of this API is to manage user authentication, create and retr
 # Features
 
 - **User Authentication**: Register and login functionality using JWT-based authentication.
-- 
+  
 - **MCQ Quiz Management**:
   - Create quizzes with multiple-choice questions.
   - Retrieve all quizzes or a specific quiz by its ID.
