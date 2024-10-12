@@ -10,7 +10,7 @@ connectDB();
 const app = express();
 
 app.get("/", (req, res) => {
-  res.send("welcome");
+  res.json({message:"Server Started"})
 });
 
 app.use(express.json());
