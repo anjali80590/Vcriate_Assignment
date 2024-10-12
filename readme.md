@@ -9,6 +9,7 @@ The main objective of this API is to manage user authentication, create and retr
 # Features
 
 - **User Authentication**: Register and login functionality using JWT-based authentication.
+- 
 - **MCQ Quiz Management**:
   - Create quizzes with multiple-choice questions.
   - Retrieve all quizzes or a specific quiz by its ID.
@@ -31,8 +32,8 @@ The main objective of this API is to manage user authentication, create and retr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/quiz-api.git
-   cd quiz-api
+   git clone https://github.com/anjali80590/Vcriate_Assignment.git
+   cd Vcriate_Assignment
 
 2. **Install dependencies**
      ```bash
